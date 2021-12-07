@@ -25,6 +25,7 @@ The first batch of NCMate-4 is ordered and currently in testing. Any comment or 
 ## Build or Buy
 NCMate is deisgned in EasyEDA and shared here: https://easyeda.com/luethich80/FlowNC-MK1
 You can clone the files, make changes and order the PCB (and assembly if parts avalable) on your own, or contact me to get a quotation for a fully assembled board
+How to order: https://docs.easyeda.com/en/PCB/Order-PCB
 
 
 
