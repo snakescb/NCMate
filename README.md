@@ -1,5 +1,5 @@
 # NCMate
-Motion controller hardware - Inspired by the awesome FluidNC CNC control firmware: [FluidNC](https://github.com/bdring/FluidNC)
+Motion controller hardware - Inspired by the awesome FluidNC CNC control firmware - [FluidNC](https://github.com/bdring/FluidNC)
 
 
 ![NCMate4](https://user-images.githubusercontent.com/10495848/145067609-8ef39956-5bb4-4081-9541-c956c663a5fe.PNG)
