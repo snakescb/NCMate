@@ -9,10 +9,10 @@ Motion controller hardware - Inspired by the awesome FluidNC CNC control firmwar
 - 100 x 150mm 4 layer PCB
 - 4 stepper module slots for up to 4 independent axes or dual motors on one axis
   - Standard Pololu/StepStick or similar style driver modules
-  - Trinamic SPi driver modules 
+  - Trinamic SPI driver modules 
   - External drivers with pulse/direction (isolated)inputs through onboard passthrough solder jumpers
 - 4 outputs for RC Servos, that can be confgured as additional independant axes in FluidNC
-- 1 flexible Spinlde interface for 0-10V controlled spindle drivers, DC spindle motors or RC ESC powered spindle motors
+- 1 flexible spindle interface for 0-10V controlled spindle drivers, DC spindle motors or RC ESC powered spindle motors
 - 2 power outputs, to control relays or other loads powered from the main supply from your CNC code
 - 4 isolated digital outputs with isolated 5V power supply
 - 6 isolated low impedance digital inputs with isolated 5V power supply, for limit switches, probe sensors and others
