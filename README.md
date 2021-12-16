@@ -7,7 +7,7 @@ Motion controller hardware - Inspired by the awesome FluidNC CNC control firmwar
 ## Features
 ### NCMate-4
 - 100 x 150mm 4 layer PCB
-- 4 stepper module slots for up to 4 independent axes or dual motors on one axis
+- 4 stepper module slots for up to 4 independent axes
   - Standard Pololu/StepStick or similar style driver modules
   - Trinamic SPI driver modules 
   - External drivers with pulse/direction (isolated)inputs through onboard passthrough solder jumpers
