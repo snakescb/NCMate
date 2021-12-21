@@ -32,6 +32,7 @@ The original NCMate - [EasyEDA Project](https://easyeda.com/luethich80/FlowNC-MK
 **Version 1.4**
 - Changes
   - 5V DC/DC converter fixed
+  - 5V DC/DC output voltage changed to 4.9V
   - Added esp32 reset curcuitry for easy esptool.py programming
   - Changed passthrough - Enable signal can be passed to motor connectors now.
 - Known Issues
