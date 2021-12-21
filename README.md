@@ -9,14 +9,15 @@ Motion controller hardware - Inspired by the awesome FluidNC CNC control firmwar
 ## NCMate-4
 The original NCMate - [EasyEDA Project](https://easyeda.com/luethich80/FlowNC-MK1)
 
-![NCMate4](https://user-images.githubusercontent.com/10495848/145067609-8ef39956-5bb4-4081-9541-c956c663a5fe.PNG)
+![ncmate](https://user-images.githubusercontent.com/10495848/146895322-fd021ff9-5cf1-4347-a458-351713cbc676.PNG)
+
 
 ### Features
 - 100 x 150mm 4 layer PCB
 - 4 stepper module slots for up to 4 independent axes
   - Standard Pololu/StepStick or similar style driver modules
   - Trinamic SPI driver modules 
-  - External drivers with pulse/direction (isolated)inputs through onboard passthrough solder jumpers
+  - External drivers with pulse/direction inputs through onboard passthrough solder jumpers
 - 4 outputs for RC Servos, that can be confgured as additional independant axes in FluidNC
 - 1 flexible spindle interface for 0-10V controlled spindle drivers, DC spindle motors or RC ESC powered spindle motors
 - 2 power outputs, to control relays or other loads powered from the main supply from your CNC code
