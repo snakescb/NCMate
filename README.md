@@ -44,4 +44,14 @@ The original NCMate - [EasyEDA Project](https://easyeda.com/luethich80/FlowNC-MK
   - 5V DC/DC Converter hooked up incorrectly. Produces 7.5V output voltage which breaks the digital isolators. 
   - No esptool.py reset circuitry makes programming cumbersome
 
+## NCMate-Compact
+Compact and simplified NCMate with 4 builtin TMC2160 drivers with external Mosfets. With some 3D printed frameparts, a housing made from PCB (or 3D printed) and a builtin cooling solution for drivers. Having 3/4 axis milling machines but also 3D printers in mind, this version also includes inputs for 2 PT1000 temperature sensors up to 400 degrees.
+
+Currently in the making
+
+![ncmate](https://user-images.githubusercontent.com/10495848/146912140-d73c5b70-023b-4a24-9184-9bc47ff6aa2a.PNG)
+![ncmate1](https://user-images.githubusercontent.com/10495848/146914071-42d23ce2-1617-43a5-b2f2-456debf382c0.PNG)
+![ncmate2](https://user-images.githubusercontent.com/10495848/146914244-e0b16172-439c-4a77-bbba-217d4d8f1afe.PNG)
+
+
 
