@@ -52,14 +52,15 @@ Currently in the making
 ![ncmate2](https://user-images.githubusercontent.com/10495848/146914244-e0b16172-439c-4a77-bbba-217d4d8f1afe.PNG)
 
 ### Features
-- 4 layer PCB with breakaway extension boards to mount in the housing
-- 4 builtin Trinamic TMC2160 stepper drivers with external 22A, 30V Mosfets, 50 mOhm sense resistor
+- 4 layer PCB with breakaway extension boards mounted in the housing
+- 4 builtin Trinamic TMC2160 stepper drivers with external 22A, 30V Mosfets and 50 mOhm sense resistors
 - 2 power outputs, to control relays or other loads (hotends, heatbeds) powered from the main supply
 - 1 flexible spindle interface for 0-10V controlled spindle drivers or DC spindle motors
 - 4 outputs for RC Servos, can be confgured as additional independant axes in FluidNC
-- 2 inputs for PT1000 temperature elements with signal amplification from 0-400° (inputs shared with 2 RC outputs)
+- 2 inputs for PT1000 temperature elements with signal conditioning for 0-400° (inputs shared with 2 RC outputs)
 - 4 digital 5V outputs (non-isolated)
-- 6 digital 5V inputs  (non-isolated), for limit switches, probe sensors and others
+- 6 digital 5V inputs (non-isolated), for limit switches, probe sensors and others
+- 1 UART/I2C extension port for future addons
 - 1 fan connectors, pwm controlled, 5V
 - Onboard ESP32 WROOM 32 module with 16MB onboard flash, wifi or bluetooth enabled by firmware
 - 12-24V input
