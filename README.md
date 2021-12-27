@@ -3,7 +3,7 @@ Motion controller hardware - Inspired by the awesome FluidNC CNC control firmwar
 
 ## Get your NCMate
 - You can download gerber files from Github and produce the PCB on your own.
-- I alwas try to have some assembled boards on stock. Get in touch with me for to check inventory and prices: luethich80@gmail.com
+- I always try to have some assembled boards on stock. Price for an NCMate-4 is USD 80 plus shipping, NCMate-Compact is not available for purchase yet. I sell the boards with no warranty, as this is a non-profit opensource project. If you are interested, contact me on luethich80@gmail.com.
 - NCMate is designed in EasyEDA and shared (Link below in the versions). You can clone the EasyEDA project, make changes as you like and order the PCB on your own. All designs are using parts which are normally in stock for assembly at JLCPCB, so you can order your board directly from EasyEDA including assembly if desired.
 
 ## NCMate-4
