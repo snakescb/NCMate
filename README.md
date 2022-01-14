@@ -9,26 +9,38 @@ Motion controller hardware - Inspired by the awesome FluidNC CNC control firmwar
 ## NCMate-4
 The original NCMate - [EasyEDA Project](https://easyeda.com/luethich80/FlowNC-MK1)
 
-![ncmate](https://user-images.githubusercontent.com/10495848/146895322-fd021ff9-5cf1-4347-a458-351713cbc676.PNG)
+![Screenshot 2022-01-14 232019](https://user-images.githubusercontent.com/10495848/149595118-3b574857-50c5-4584-9cc3-b673ebd7b0b0.png)
+![Screenshot 2022-01-14 232104](https://user-images.githubusercontent.com/10495848/149595124-2cef6f00-db7b-41f9-9f9f-2b125e5c1391.png)
 
 
 ### Features
-- 100 x 150mm 4 layer PCB
+- 80 x 105mm 4 layer PCB
 - 4 stepper module slots for up to 4 independent axes
   - Standard Pololu/StepStick or similar style driver modules
   - Trinamic SPI driver modules 
   - External drivers with pulse/direction inputs through onboard passthrough solder jumpers
 - 4 outputs for RC Servos, that can be confgured as additional independant axes in FluidNC
-- 1 flexible spindle interface for 0-10V controlled spindle drivers, DC spindle motors or RC ESC powered spindle motors
+- 1 flexible spindle interface for 0-10V controlled spindle drivers and DC spindle motors up to 800W at 48V
 - 2 power outputs, to control relays or other loads powered from the main supply from your CNC code
 - 4 isolated digital outputs with isolated 5V power supply
 - 6 isolated low impedance digital inputs with isolated 5V power supply, for limit switches, probe sensors and others
 - 2 fan connectors, pwm controlled, 5V or supply voltage selectable through jumper
 - Onboard ESP32 WROOM 32 module with 16MB onboard flash, wifi or bluetooth enabled by firmware
 - Onboard SD card slot for computerless gcode execution
-- 12-24V input (more possible but not tested)
+- 12-48V input 
 
 ### Versions and know issues
+**Version 2.0**
+- Changes
+  - New size 80x105mm - almost 50% smaller than previous versions
+  - Changed to smaller 3.81mm pluggable terminal blocks
+  - Full pinout documented on PCB for easy setup
+  - Added possibility for SD Card detect pin
+  - ESC conector removed, spindle ESC can be driven by RC output
+  - Increased input voltage on main DC/DC convertor to accept 48 Volt
+- Known Issues
+  - No known issues
+  - 
 **Version 1.4**
 - Changes
   - 5V DC/DC converter fixed
