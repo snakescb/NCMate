@@ -15,7 +15,7 @@ The original NCMate - [EasyEDA Project](https://easyeda.com/luethich80/FlowNC-MK
 
 ### Features
 - 80 x 105mm 4 layer PCB
-- New increase input voltage range 12-60V
+- 12-60V input voltage range
 - 4 stepper module slots for up to 4 independent axes
   - Standard Pololu/StepStick or similar style driver modules
   - Trinamic SPI driver modules 
