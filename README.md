@@ -15,6 +15,7 @@ The original NCMate - [EasyEDA Project](https://easyeda.com/luethich80/FlowNC-MK
 
 ### Features
 - 80 x 105mm 4 layer PCB
+- New increase input voltage range 12-60V
 - 4 stepper module slots for up to 4 independent axes
   - Standard Pololu/StepStick or similar style driver modules
   - Trinamic SPI driver modules 
@@ -27,7 +28,6 @@ The original NCMate - [EasyEDA Project](https://easyeda.com/luethich80/FlowNC-MK
 - 2 fan connectors, pwm controlled, 5V or supply voltage selectable through jumper
 - Onboard ESP32 WROOM 32 module with 16MB onboard flash, wifi or bluetooth enabled by firmware
 - Onboard SD card slot for computerless gcode execution
-- 12-48V input 
 
 ### Versions and know issues
 **Version 2.0**
