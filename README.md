@@ -9,7 +9,7 @@ Motion controller hardware - Inspired by the awesome FluidNC CNC control firmwar
 ## NCMate-4
 The original NCMate - [EasyEDA Project](https://easyeda.com/luethich80/FlowNC-MK1)
 
-![Screenshot 2022-01-14 232019](https://user-images.githubusercontent.com/10495848/149595118-3b574857-50c5-4584-9cc3-b673ebd7b0b0.png)
+![ncmate](https://user-images.githubusercontent.com/10495848/149769465-21a75326-9e9b-4797-91b3-03a04f27d214.PNG)
 ![Screenshot 2022-01-14 232104](https://user-images.githubusercontent.com/10495848/149595124-2cef6f00-db7b-41f9-9f9f-2b125e5c1391.png)
 
 
