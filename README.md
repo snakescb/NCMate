@@ -48,7 +48,7 @@ The original NCMate - [EasyEDA Project](https://easyeda.com/luethich80/FlowNC-MK
   - Added esp32 reset curcuitry for easy esptool.py programming
   - Changed passthrough - Enable signal can be passed to motor connectors now.
 - Known Issues
-  - No known issues
+  - Signal integrity issue on the shift register data and clock lines, I2S_STREAM engine will not work. Needs to be fixed in V2.0
     
 **Version 1.3**
 - Changes
