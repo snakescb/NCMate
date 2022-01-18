@@ -33,6 +33,7 @@ The original NCMate - [EasyEDA Project](https://easyeda.com/luethich80/FlowNC-MK
 **Version 2.0**
 - Changes
   - New size 80x105mm - almost 50% smaller than previous versions
+  - Proper ground return path on all I2S signals for proper signal integrity
   - Changed to smaller 3.81mm pluggable terminal blocks
   - Full pinout documented on PCB for easy setup
   - Added possibility for SD Card detect pin
@@ -40,7 +41,7 @@ The original NCMate - [EasyEDA Project](https://easyeda.com/luethich80/FlowNC-MK
   - Increased input voltage on main DC/DC convertor to accept 48 Volt
 - Known Issues
   - No known issues
-  - 
+   
 **Version 1.4**
 - Changes
   - 5V DC/DC converter fixed
