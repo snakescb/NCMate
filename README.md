@@ -11,13 +11,13 @@ Motion controller hardware - Inspired by the awesome FluidNC CNC control firmwar
 NCMate-Control is the logic board of NCMate. It is design as a compact yet robust board and includes everything essential to run simple baseboards for different use-cases
 
 <p float="left">
-  <img src="https://user-images.githubusercontent.com/10495848/224637335-af7e8a46-daec-4151-9601-31aafb47d865.PNG" width="300" />
-  <img src="https://user-images.githubusercontent.com/10495848/224637544-39097ebf-6ba4-49cd-99df-e1485fb33221.PNG" width="300" /> 
+  <img src="https://user-images.githubusercontent.com/10495848/224637335-af7e8a46-daec-4151-9601-31aafb47d865.PNG" height="400" />
+  <img src="https://user-images.githubusercontent.com/10495848/224637544-39097ebf-6ba4-49cd-99df-e1485fb33221.PNG" height="400" /> 
 </p>
 
 ### Features
 - 40 x 50mm 4 layer PCB
-- 3.5A 5V DC/DC Converter with 19-60V input voltage range
+- 3.5A 5V DC/DC Converter with 9-60V input voltage range
 - ESP32-WROOM-32D 16MB controller module
 - 4 I2SO shift registers
 - 3.3V / 5V I2SO output voltage selectable through solder jumper
