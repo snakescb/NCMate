@@ -10,6 +10,9 @@ Motion controller hardware - Inspired by the awesome FluidNC CNC control firmwar
 ## NCMate-Control
 NCMate-Control is the logic board of NCMate. It is design as a compact yet robust board and includes everything essential to run simple baseboards for different use-cases
 
+![top](https://user-images.githubusercontent.com/10495848/224637335-af7e8a46-daec-4151-9601-31aafb47d865.PNG)
+![bottom](https://user-images.githubusercontent.com/10495848/224637544-39097ebf-6ba4-49cd-99df-e1485fb33221.PNG)
+
 ### Features
 - 40 x 50mm 4 layer PCB
 - 3.5A 5V DC/DC Converter with 19-60V input voltage range
