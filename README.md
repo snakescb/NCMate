@@ -22,7 +22,6 @@ NCMate-Control is the logic board of NCMate. It is design as a compact yet robus
 - 4 I2SO shift registers
 - 3.3V / 5V I2SO output voltage selectable through solder jumper
 - All ESP32 GPIO's, 32 I2SO Outputs, 5V and 3.3V on pinheaders to baseboard
-- 4 outputs for RC Servos, that can be confgured as additional independant axes in FluidNC
 
 ### Versions and know issues
 **Version 1.1**
