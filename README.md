@@ -27,8 +27,10 @@ NCMate-Control is the logic board of NCMate. It is design as a compact yet robus
 **Version 1.1**
 - Changes
   - First public version
-- Known Issues
-  - No known issues
+- Known Issues: None
+- [EasyEDA Project](https://oshwlab.com/luethich80/FlowNC-MK1_copy_copy)
+  
+    
    
 
 
