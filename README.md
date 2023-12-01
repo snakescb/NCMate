@@ -31,6 +31,28 @@ NCMate-Control is the logic board of NCMate. It is design as a compact yet robus
 - Known Issues: None
 - [EasyEDA Project](https://oshwlab.com/luethich80/FlowNC-MK1_copy_copy)
 
+## NCMate-Mini-6-Basic 
+Compact baseboard which supports a variety of machines with up to 6 external stepper axes.
+
+![base top](https://github.com/snakescb/NCMate/assets/10495848/c053f316-8630-4232-b262-6103179bdaf8)
+![base bottom](https://github.com/snakescb/NCMate/assets/10495848/e8c8289f-c88f-479c-9001-ac01a977b57f)
+
+#### Features
+
+- 40 x 50mm 4 layer PCB
+- 3.5A 5V DC/DC Converter with 9-60V input voltage range
+- ESP32-WROOM-32D 16MB controller module
+- 4 I2SO shift registers
+- 3.3V / 5V I2SO output voltage selectable through solder jumper
+- All ESP32 GPIO's, 32 I2SO Outputs, 5V and 3.3V on pinheaders to baseboard
+
+#### Versions and know issues
+**Version 1.1**
+- Changes
+  - First public version
+- Known Issues: None
+- [EasyEDA Project](https://oshwlab.com/luethich80/FlowNC-MK1_copy_copy)
+
 # NCMate Picture Pictures
 Controller mounted on the Mini-6-Basic Baseboard, with and without wooden housing
 
