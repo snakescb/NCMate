@@ -5,7 +5,7 @@ Motion controller hardware - Inspired by the awesome FluidNC CNC control firmwar
 - You can download gerber files from Github and produce the PCB on your own.
 - I always try to have some assembled boards. Get in touch with me for prices. I sell the boards with no warranty, as this is a non-profit opensource project. If you are interested, contact me on luethich80@gmail.com.
 - NCMate is designed in EasyEDA and shared to the public (Link below in the versions). You can clone the EasyEDA project, make changes as you like and order the PCB on your own. All designs are using basic parts whenever possible which are normally in stock at JLCPCB, so you can order your PCB only or assembled boards directly through EasyEDA.
-- Note: Ppinheaders and connectors are normally excluded from the BOM's, so they need to be purchased and soldered separately.
+- Note: Pinheaders and connectors are normally excluded from the BOM's, so they need to be purchased and soldered separately.
 
 ## NCMate-Control
 NCMate-Control is the logic board of NCMate. It is design as a compact yet robust board and includes everything essential to run  baseboards adopted for different use-cases
