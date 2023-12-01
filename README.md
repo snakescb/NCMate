@@ -39,19 +39,25 @@ Compact baseboard which supports a variety of machines with up to 6 external ste
 
 #### Features
 
-- 40 x 50mm 4 layer PCB
-- 3.5A 5V DC/DC Converter with 9-60V input voltage range
-- ESP32-WROOM-32D 16MB controller module
-- 4 I2SO shift registers
-- 3.3V / 5V I2SO output voltage selectable through solder jumper
-- All ESP32 GPIO's, 32 I2SO Outputs, 5V and 3.3V on pinheaders to baseboard
+- Final Modul 90 x 70mm, 4 layer
+- PCB includes "Break-Away" addon boards which stack to the base PCB, see pictures below
+- Logically separated functions (axes, digital inputs, digital outpus, spindle, power) on decicated, pluggable connectors
+- 6 step, direction, enable, 5V outputs
+- 0-10V output with 2 isolated outputs and trim potentiometer for spindles
+- RS485 port for spindles
+- 4 isolated digital inputs with isolated 5v power supply
+- 4 non-isolated digital inputs
+- 4 non-isolated digital outpus
+- 2 digital power outputs for switching relays or pwm spindles from the dc power source
+- Power connector
+- USB-C connector to ESP32 on control board, with ESP32 reset logic
 
 #### Versions and know issues
 **Version 1.1**
 - Changes
   - First public version
 - Known Issues: None
-- [EasyEDA Project](https://oshwlab.com/luethich80/FlowNC-MK1_copy_copy)
+- [EasyEDA Project](https://oshwlab.com/luethich80/baseboard-mini-6-basic)
 
 # NCMate Picture Pictures
 Controller mounted on the Mini-6-Basic Baseboard, with and without wooden housing
