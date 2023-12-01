@@ -32,11 +32,15 @@ NCMate-Control is the logic board of NCMate. It is design as a compact yet robus
 - [EasyEDA Project](https://oshwlab.com/luethich80/FlowNC-MK1_copy_copy)
 
 # NCMate Picture Pictures
-Controller mounted on the MIni-6-Basic Baseboard, with and without wooden housing
+Controller mounted on the Mini-6-Basic Baseboard, with and without wooden housing
+
 ![IMG_2041](https://github.com/snakescb/NCMate/assets/10495848/3b365da5-6d17-4a77-8681-0929224e6f37)
 ![IMG_2043](https://github.com/snakescb/NCMate/assets/10495848/63959542-0ee6-450d-bfa2-86aa6a60653e)
 ![IMG_2042](https://github.com/snakescb/NCMate/assets/10495848/94a6f78b-53db-4fd8-b76e-ed6feda97dc9)
 ![IMG_2044](https://github.com/snakescb/NCMate/assets/10495848/a263196d-1207-4504-95c3-19437af4c424)
+
+Some 3d Renders out of Fusion360
+
   
     
    
