@@ -5,8 +5,8 @@ Motion controller hardware - Inspired by the awesome FluidNC CNC control firmwar
 NCMate-Control is the logic board of NCMate. It is design as a compact yet robust board and includes everything essential to run  baseboards adopted for different use-cases
 
 <p float="left">
-  <img src="https://github.com/snakescb/NCMate/assets/10495848/4e0ddb6e-2012-45f3-a64d-57142183567c" height="600" />
-  <img src="https://github.com/snakescb/NCMate/assets/10495848/dd02505b-c576-45fe-89c7-e5060342fdd8" height="600" /> 
+  <img src="https://github.com/snakescb/NCMate/assets/10495848/4e0ddb6e-2012-45f3-a64d-57142183567c" height="500" />
+  <img src="https://github.com/snakescb/NCMate/assets/10495848/dd02505b-c576-45fe-89c7-e5060342fdd8" height="500" /> 
 </p>
 
 #### Features
