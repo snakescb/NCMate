@@ -1,12 +1,5 @@
 # NCMate
-Motion controller hardware - Inspired by the awesome FluidNC CNC control firmware - [FluidNC](https://github.com/bdring/FluidNC)
-
-
-## Get your NCMate's
-- You can download gerber files from Github and produce the PCB on your own.
-- I always try to have some assembled boards. Get in touch with me for prices. I sell the boards with no warranty, as this is a non-profit opensource project. If you are interested, contact me on luethich80@gmail.com.
-- NCMate is designed in EasyEDA and shared to the public (Link below in the versions). You can clone the EasyEDA project, make changes as you like and order the PCB on your own. All designs are using basic parts whenever possible which are normally in stock at JLCPCB, so you can order your PCB only or assembled boards directly through EasyEDA.
-- Note: Pinheaders and connectors are normally excluded from the BOM's, so they need to be purchased and soldered separately.
+Motion controller hardware - Inspired by the awesome FluidNC CNC control firmware - [FluidNC](https://github.com/bdring/FluidNC). This deisgn is split into a controller and a baseboard module, supporting the idea that the controller module has everything FluidNC can offer, but the baseboards may be taylormade to the type of machines you run. In current state I designed one baseboard only, the Mini-6-Basic, which are in use in all my machines so far.
 
 ## NCMate-Control
 NCMate-Control is the logic board of NCMate. It is design as a compact yet robust board and includes everything essential to run  baseboards adopted for different use-cases
@@ -58,6 +51,12 @@ Compact baseboard which supports a variety of machines with up to 6 external ste
   - First public version
 - Known Issues: None
 - [EasyEDA Project](https://oshwlab.com/luethich80/baseboard-mini-6-basic)
+
+## Get your NCMate's
+- You can download gerber files from Github and produce the PCB on your own.
+- I always try to have some assembled boards. Get in touch with me for prices. I sell the boards with no warranty, as this is a non-profit opensource project. If you are interested, contact me on luethich80@gmail.com.
+- NCMate is designed in EasyEDA and shared to the public (Link below in the versions). You can clone the EasyEDA project, make changes as you like and order the PCB on your own. All designs are using basic parts whenever possible which are normally in stock at JLCPCB, so you can order your PCB only or assembled boards directly through EasyEDA.
+- Note: Pinheaders and connectors are normally excluded from the BOM's, so they need to be purchased and soldered separately.
 
 # NCMate Picture Pictures
 Controller mounted on the Mini-6-Basic Baseboard, with and without wooden housing
