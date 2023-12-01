@@ -11,7 +11,7 @@ NCMate-Control is the logic board of NCMate. It is design as a compact yet robus
 
 #### Features
 - 40 x 50mm 4 layer PCB
-- 3.5A 5V DC/DC Converter with 9-60V input voltage range
+- 3.5A 5V switching DC/DC Converter with 9-60V input voltage range
 - ESP32-WROOM-32D 16MB controller module
 - 4 I2SO shift registers
 - 3.3V / 5V I2SO output voltage selectable through solder jumper
