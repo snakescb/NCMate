@@ -67,11 +67,12 @@ Controller mounted on the Mini-6-Basic Baseboard, with and without wooden housin
 ![IMG_2042](https://github.com/snakescb/NCMate/assets/10495848/94a6f78b-53db-4fd8-b76e-ed6feda97dc9)
 ![IMG_2044](https://github.com/snakescb/NCMate/assets/10495848/a263196d-1207-4504-95c3-19437af4c424)
 
-Some 3d Renders out of Fusion360
+Some 3d Renders out of Fusion360, with 3d printable frameparts and rendered in acrylic housing.
+Final size including case made from 2mm thick material: 94mm x 74mm x 33mm
 
-  
-    
-   
+![NCMate-Mini-6_2023-Dec-01_09-41-53AM-000_CustomizedView32159782820](https://github.com/snakescb/NCMate/assets/10495848/38c1f8ee-7e0d-4707-8dd3-949abdaf3e90)
+![NCMate-Mini-6_2023-Mar-12_11-36-07AM-000_CustomizedView3633665913](https://github.com/snakescb/NCMate/assets/10495848/d4866ff4-d414-4f38-b84d-4bdb57b800e5)
+
 
 
 
