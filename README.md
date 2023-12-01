@@ -8,7 +8,7 @@ Motion controller hardware - Inspired by the awesome FluidNC CNC control firmwar
 - Note: Ppinheaders and connectors are normally excluded from the BOM's, so they need to be purchased and soldered separately.
 
 ## NCMate-Control
-NCMate-Control is the logic board of NCMate. It is design as a compact yet robust board and includes everything essential to run simple baseboards for different use-cases
+NCMate-Control is the logic board of NCMate. It is design as a compact yet robust board and includes everything essential to run  baseboards adopted for different use-cases
 
 <p float="left">
   <img src="https://user-images.githubusercontent.com/10495848/224637335-af7e8a46-daec-4151-9601-31aafb47d865.PNG" height="400" />
