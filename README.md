@@ -1,6 +1,7 @@
 # NCMate
 Motion controller hardware - Inspired by the awesome FluidNC CNC control firmware - [FluidNC](https://github.com/bdring/FluidNC)
 
+
 ## Get your NCMate's
 - You can download gerber files from Github and produce the PCB on your own.
 - I always try to have some assembled boards. Get in touch with me for prices. I sell the boards with no warranty, as this is a non-profit opensource project. If you are interested, contact me on luethich80@gmail.com.
@@ -29,6 +30,12 @@ NCMate-Control is the logic board of NCMate. It is design as a compact yet robus
   - First public version
 - Known Issues: None
 - [EasyEDA Project](https://oshwlab.com/luethich80/FlowNC-MK1_copy_copy)
+
+# Pictures
+![IMG_2041](https://github.com/snakescb/NCMate/assets/10495848/3b365da5-6d17-4a77-8681-0929224e6f37)
+![IMG_2043](https://github.com/snakescb/NCMate/assets/10495848/63959542-0ee6-450d-bfa2-86aa6a60653e)
+![IMG_2042](https://github.com/snakescb/NCMate/assets/10495848/94a6f78b-53db-4fd8-b76e-ed6feda97dc9)
+![IMG_2044](https://github.com/snakescb/NCMate/assets/10495848/a263196d-1207-4504-95c3-19437af4c424)
   
     
    
