@@ -58,7 +58,7 @@ Compact baseboard which supports a variety of machines with up to 6 external ste
 - NCMate is designed in EasyEDA and shared to the public (Link below in the versions). You can clone the EasyEDA project, make changes as you like and order the PCB on your own. All designs are using basic parts whenever possible which are normally in stock at JLCPCB, so you can order your PCB only or assembled boards directly through EasyEDA.
 - Note: Pinheaders and connectors are normally excluded from the BOM's, so they need to be purchased and soldered separately.
 
-# NCMate Picture Pictures
+# NCMate Pictures
 Controller mounted on the Mini-6-Basic Baseboard, with and without wooden housing
 
 ![IMG_2041](https://github.com/snakescb/NCMate/assets/10495848/3b365da5-6d17-4a77-8681-0929224e6f37)
